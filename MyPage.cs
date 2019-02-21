@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 
 using Xamarin.Forms;
 
@@ -11,7 +11,7 @@ namespace StructureMobile
             Content = new StackLayout
             {
                 Children = {
-                    new Label { Text = "Hello ContentPage" }
+                    new Label { Text = "TEst Num 2" }
                 }
             };
         }
